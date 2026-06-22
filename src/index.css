@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  background-color: #232230;
+  font-family: 'Special Elite', 'Courier Prime', monospace;
+  overflow: hidden;
+  height: 100vh;
+}
+
+code {
+  font-family: 'Courier Prime', monospace;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #232230;
+}
+::-webkit-scrollbar-thumb {
+  background: #A42E2E;
+  border-radius: 4px;
+}
